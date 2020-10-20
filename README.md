@@ -2,7 +2,7 @@
 
 <h2>Hey 👋, I'm <a href="">Vinícius</a></h2>
 
-<img src="https://giphy.com/gifs/DBW3BniaWrFo4/html5">
+<img src="https://media.giphy.com/media/DBW3BniaWrFo4/giphy.gif>
 
 Sou estudante do curso de Ciência da Computação da Universidade Federal Fronteira Sul - Campus Chapecó.
 
